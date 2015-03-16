@@ -4,4 +4,6 @@ on my own feature_branch
 yea it's called kill_list
 the branch that is. 
 this is the feature i am working on. 
-thanks. 
+thanks.
+
+* bla programmer grievance 
